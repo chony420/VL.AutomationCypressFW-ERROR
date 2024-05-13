@@ -1,0 +1,14 @@
+{
+    "TipoBienes": "#assetType",
+    "BienesBienes": "#asset",
+    "TipoPlantillas": "[id='template']",
+    "PlantillasPlantilla": "#template",
+    "Institucion": "[id='institution']",
+    "Carreras": "#career",
+    "TipoNotas": "#noteType",
+    "TipoArchivos": "#fileType",
+    "MotivoBaja": "#terminationReason",
+    "Integraciones": "#integrations",
+    "Paises": "#countries",
+    "LegajosRango": "#employeeFileRanges"
+  }

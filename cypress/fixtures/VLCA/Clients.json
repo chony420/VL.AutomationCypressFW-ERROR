@@ -1,0 +1,9 @@
+{
+  "Create": "[data-cy=create]",
+  "Clients Form": "[data-cy=queryForm]",
+  "Tag Identifier": "[data-cy=idTag]",
+  "Name": "[data-cy=name]",
+  "CRM Name": "[data-cy=crmName]",
+  "CRM Number": "[data-cy=crmNumber]",
+  "Start Date": "[data-cy=startDate]"
+}

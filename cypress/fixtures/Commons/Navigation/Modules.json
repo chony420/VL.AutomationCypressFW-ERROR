@@ -1,0 +1,9 @@
+{
+  "SECURITY": "#Security",
+  "DEVOPS": "#DevOps",
+  "Main": "[data-cy=vismaLogo]",
+  "Home": "[data-cy=goHome]",
+  "TOOLS": "[data-cy=tools]",
+  "PEOPLE": "[id='hrcoreCard']",
+  "PAYROLL": "[id='payrollCard']"
+}

@@ -1,0 +1,92 @@
+# Introduction 
+Este framework esta orientado a automatizar cualquier producto del grupo Visma. Por ese motivo cada implementacion que se realice debe ser analizada para su reutilizacion.
+# Estructura de Carpetas
+La estructura de carpetas se define de la siguiente manera:
+
+# Estructura del Page Object Model
+LA estructura del POM se desgloza de la siguinete manera:
+
+# Getting Started
+=== Pasos del primer uso:
+
+Luego de haber clonado el repositorio, se requiere tener algunos programas instalados en la computadora en donde se ejecutará Cypress.
+
+1- Visual Studio Code como editor recomendado.
+
+2- Node.js (según el Sistema Operativo: https://nodejs.org/en/download/current/), una vez instalado, continuar al siguiente paso.
+
+3- Abrir desde el VSCode la carpeta que contiene los archivos clonados del repositorio.
+
+4- Abrir una Terminal (Ctrl + Shift + ñ) para ejecutar los siguientes comandos:
+
+5- npm install npm@latest -g (actualiza la versión del administrador de paquetes de Node.js que viene con la instalación anterior)
+
+6- npm install cypress --save --include=dev (instala Cypress y sus módulos en el ordenador), una vez instalado, continuar.
+
+7- npx cypress open (abre la ventana de Cypress que contiene los tests a ejecutar, puede demorar la primera vez).
+
+8- Desde la ventana de Cypress se pueden ejecutar los tests que se encuentren en la carpeta y sub carpetas de integration.
+
+* En una instalación desde cero (sin clonar repo), el comando del paso 5 crea la carpeta node_modules, package.json, etc.,
+y el del paso 6, crea la estructura de carpetas para la test data que interpreta Cypress para ejecutar los tests: fixtures, 
+integration, plugins y support. Esto incluye unos tests de ejemplo dentro de integration, que se ejecutan sobre una aplicación modelo,
+pero en este repo no se encuentran, ya que se crearán/actualizarán/usarán aquellos enfocados a nuestra aplicación objeto de prueba.
+
+
+=== Configuraciones e indicaciones adicionales:
+
+= Archivo cypress.json: configura parámetros de Cypress, se encuentra modificado y adaptado a los tests conforme
+a la data que se usará, por ejemplo: datos del entorno, usuarios, entre otros. Algunas propiedades que tiene creadas son:
+
+= defaultCommandTimeout: Tiempo máximo de espera para encontrar elementos en la página (default: 4000). 
+Valores: Numbers (milliseconds).
+
+= pageLoadTimeout: Tiempo máximo de espera para cargar la página (default: 60000). 
+Valores: Numbers (milliseconds).
+
+= watchForFileChanges: Reejecuta un test que esté sobre el navegador cada vez que se guarda un cambio en los steps del mismo.
+Valores: Boolean.
+
+= video: Guarda un video de cada ejecución de test (spec) cuando se ejecuta por consola (run), no por ventana (open). 
+Valores: Boolean.
+
+= env: Test data para los casos de prueba. 
+Valores: Objects y Primitives.
+
+
+=== Carpetas y contenido:
+
+*!* Evitar borrar cualquier carpeta o archivo que no haya sido creado por uno mismo, ya que puede ser propia del sistema 
+y, en consecuencia, afectar el funcionamiento del framework. *!*
+
+= Fixtures: Archivos para tomar como insumo de datos para las pruebas (page objects, user data, etc.). 
+Extensiones: .json, .js, .coffee, .html, .txt, .csv, .png, .jpg, .jpeg, .gif, .tif, .tiff, .zip
+
+= Integration: Tests o steps para ejecutar las pruebas. 
+Extensiones: .spec.js / .specs.js
+
+= Plugins: Configuraciones de plugins a cargar previo a la ejecución de Cypress.
+Estensiones: .js
+
+= Support: Archivos configuraciones de Cypress: funciones personalizadas y modificaciones globales.
+Estensiones: .js
+
+
+=== Extensiones y configuraciones de VSCode recomendadas:
+
+= Extensiones:
+Visualizador de íconos: vscode-icons, by: VSCode Icons Team.
+Asistente de Git data: gitlens, by: Eric Amodio.
+
+= Configuraciones:
+Coloreador de separadores: File > Preferences > Settings, buscar y habilitar: Bracket Pair Colorization.
+# Build and Test
+TODO: Describe and show how to build your code and run the tests. 
+
+# Contribute
+TODO: Explain how other users and developers can contribute to make your code better. 
+
+If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
+- [ASP.NET Core](https://github.com/aspnet/Home)
+- [Visual Studio Code](https://github.com/Microsoft/vscode)
+- [Chakra Core](https://github.com/Microsoft/ChakraCore)

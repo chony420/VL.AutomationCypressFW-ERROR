@@ -1,0 +1,7 @@
+{
+    "DraftStateWithoutEmployees": [ "Modificar","Duplicar", "Eliminar"],
+    "DraftStateWithEmployees": ["Enviar a procesar", "Modificar", "Duplicar", "Eliminar"],
+    "ProcessedStateWithEmployees": ["Ver tablero","Modificar", "Cambiar estado", "Reprocesar nómina", "Duplicar", "Eliminar"],
+    "ProvisionalApprovedState": ["Ver tablero","Cambiar estado"],
+    "DefinitiveApprovedState": ["Ver tablero","Cambiar estado"]
+}

@@ -1,0 +1,17 @@
+{
+    "Description": "#description",
+    "Asset": ".ng-input > input",
+    "Code": "#code",
+    "Price": "#price",
+    "Guardar": "#save",
+    "Crear": "[id='create']",
+    "Description Validation": "#descriptionValidation",
+    "Code Validation": "#codeValidation",
+    "Price Validation": "#priceValidation",
+    "Filter Asset": "#filterAsset",
+    "Clear wrapper": ".ng-clear-wrapper",
+    "Close modal": "#modal-validation > a > .vismaicon-16"
+    
+
+
+  }

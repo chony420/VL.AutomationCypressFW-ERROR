@@ -1,0 +1,19 @@
+{
+    "MassiveActionType": ".ng-arrow-wrapper",
+    "SelectVacationModel": "#holidayModel  > .ng-select-container > .ng-arrow-wrapper",
+    "SelectPaymentOrigin": "#originPayment  > .ng-select-container > .ng-arrow-wrapper",
+    "PayrollPeriod": "#payrollPeriod  > .ng-select-container > .ng-arrow-wrapper",
+    "DiscountSinceDate": "#discountSinceDate",
+    "VacationModel Validation": "#holidayModelValidation",
+    "OriginModel Validation": "#originPaymentValidation",
+    "PayrollPeriod Validation": "#payrollPeriodValidation",
+    "DiscountSinceDate Validation": "#discountSinceDateValidation",
+    "DateTo Validation": "#dateToValidation",
+    "RangeDaysFrom": ".mat-date-range-input-start-wrapper",
+    "RangeDaysTo": "#dateTo",
+    "Next": ".mat-stepper-next btn-regular secondary-fill-fill ml-20 btn-secondary-fill",
+    "All Days": "#mat-radio-5",
+    "Maximum Quantity": "#mat-radio-6",
+    "Days": "#numberOfDaysToPay",
+    "Days Validation": "#numberOfDaysToPayValidation"
+    }

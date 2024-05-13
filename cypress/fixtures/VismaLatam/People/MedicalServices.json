@@ -1,0 +1,7 @@
+{
+    "Company": "#company",
+    "Phone number": "#phone",
+    "Medical Service": "#filterMedicalService",
+    "Company Validation": "#companyValidation",
+    "Phone Validation": "#phoneValidation"
+}

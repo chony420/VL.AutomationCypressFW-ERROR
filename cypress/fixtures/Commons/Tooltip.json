@@ -1,0 +1,47 @@
+{
+  "Descargar Excel": ".accumulators .vismaicon-20.icon-system-excel",
+  "Icono Excel": "#export",
+  "ObligatorioBadge": "#dragDropRight>.align-options>.mat-tooltip-trigger",
+  "Perfil": ".employee-summary-wrapper__employee-name",
+  "Adjunto": ".sidebar-wrapper__employees > div:nth-of-type(1) > .sidebar-wrapper__employee-attachment",
+  "Warning": ".employee-summary-wrapper__status-warning",
+  "IrMopre": ".mat-tooltip-trigger.header-detail__mopre-action",
+  "AusenciasyVacaciones": ".mat-tooltip-trigger.header-main__button-action",
+  "ConfigurarTablero": "[aria-describedby='cdk-describedby-message-8']>.header-main__icon-m",
+  "OrdenarVisible": ".accumulators .mat-sort-header-content>.mat-tooltip-trigger",
+  "Configuration": "#configuration",
+  "IdProcess Column": ".vl-grid__table-cell-icon",
+
+"VLCA": {
+  "SECURITY": {
+  "Users": ".mat-tooltip-trigger vismaicon vismaicon-menu-users",
+  "User Groups": ".mat-tooltip-trigger vismaicon vismaicon-menu-groupuser",
+  "Roles": ".mat-tooltip-trigger vismaicon vismaicon-menu-roles",
+  "Components": ".mat-tooltip-trigger vismaicon vismaicon-menu-component",
+  "Resources": ".mat-tooltip-trigger vismaicon vismaicon-menu-means",
+  "Domains": ".mat-tooltip-trigger vismaicon vismaicon-menu-domain",
+  "Menues": ".mat-tooltip-trigger vismaicon vismaicon-menu-menues"
+   },
+
+  "TOOLS": {
+  "Query Management": ".mat-tooltip-trigger vismaicon vismaicon-menu-query-manager",
+  "Translation Manager": ".mat-tooltip-trigger vismaicon vismaicon-menu-translation-manager", 
+  "Clients": ".mat-tooltip-trigger vismaicon vismaicon-menu-clients",
+  "Subscriptions": ".mat-tooltip-trigger vismaicon vismaicon-menu-subscriptions",
+  "Recurring Jobs": ".mat-tooltip-trigger vismaicon vismaicon-menu-recurring-jobs",
+  "Notifications": ".mat-tooltip-trigger vismaicon vismaicon-menu-recurring-jobs"       
+   },
+
+  "DEVOPS": {
+  "Tenants": ".mat-tooltip-trigger vismaicon vismaicon-menu-tenant",
+  "Databases": ".mat-tooltip-trigger vismaicon vismaicon-menu-database",
+  "Database Engines": ".mat-tooltip-trigger vismaicon vismaicon-menu-database-engine",
+  "Servers": ".mat-tooltip-trigger vismaicon vismaicon-menu-server",
+  "Settings": ".mat-tooltip-trigger vismaicon vismaicon-menu-setting",
+  "Applications": ".mat-tooltip-trigger vismaicon vismaicon-menu-application",
+  "Internal Users": ".mat-tooltip-trigger vismaicon vismaicon-menu-internal-user",
+  "Agent Servers": ".mat-tooltip-trigger vismaicon vismaicon-menu-agent-server",
+  "SFTP Config": ".mat-tooltip-trigger vismaicon icon-description-fileNumber"
+  }
+}
+}

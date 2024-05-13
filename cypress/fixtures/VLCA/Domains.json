@@ -1,0 +1,15 @@
+{
+  "Domains": "[data-cy=domains]",
+  "Create": "[data-cy=create]",
+  "Input Id": "[data-cy=id]",
+  "Input Name": "[data-cy=name]",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]",
+  "Search": "[data-cy=filterDomain]",
+  "Grid Table": "[data-cy=gridTable]",
+  "Id sorter arrow": "[data-cy=idSort]",
+  "Name sorter arrow": "[data-cy=nameSort]",
+  "Ellipsis": "[data-cy=options_0]",
+  "Ellipsis Edit": "[data-cy=btnGridedit]",
+  "Ellipsis Delete": "[data-cy=btnGriddelete]"
+}

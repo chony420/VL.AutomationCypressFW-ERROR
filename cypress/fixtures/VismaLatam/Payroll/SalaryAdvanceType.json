@@ -1,0 +1,16 @@
+{
+    "Table":"table",
+    "VisibleTuRecibo": "visibleTuRecibo-input",
+    "PermanentAmount": "permanentAmount-input",
+    "VisibleTuRecibo-Check": "#visibleTuRecibo > .mat-checkbox-layout > .mat-checkbox-inner-container > input",
+    "PermanentAmount-Check": "#permanentAmount > .mat-checkbox-layout > .mat-checkbox-inner-container  > input",
+    "Filter Input":"#filterpayrollModel",
+    "AmountValidation": "#amountValidation",
+    "Description": "#description",
+    "Amount": "#amount", 
+    "First Cell": "table>tbody>.mat-row>[role='cell']", 
+    "Salary Advance Skeleton Form":".skeleton-input-h25",
+    "Options": "#options", 
+    "Delete": "#btnGriddelete",
+    "Salary Advance Table Skeleton":".skeleton-table"
+}

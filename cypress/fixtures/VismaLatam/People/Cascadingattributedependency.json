@@ -1,0 +1,14 @@
+{
+    "Description Cascading": "#settingsDescription",
+    "Description Validation": "#mat-input-4Validation",
+    "Main Structure Type": "#mainStructureTypeSelector",
+    "Main Structure Type Validation": "#mainStructureTypeSelectorValidation",
+    "Continue": "#continue>button",
+    "Main structure": "#filterUnassigned",
+    "Actividad SICOSS" :"#settingValue_0_0",
+    "Main structure validation" : "#settingValue_0_0Validation",
+    "Programa" : "#settingValue_0_1", 
+    "Programa validation": "#settingValue_0_1Validation"
+
+
+}

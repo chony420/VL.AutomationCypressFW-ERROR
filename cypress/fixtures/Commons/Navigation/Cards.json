@@ -1,0 +1,145 @@
+{
+  "VLCA": {
+    "SECURITY": {
+       "Users": "[routerlink='/vlsecurityusers']",
+       "User Groups": "[routerlink='/vlsecurity/user-groups']",
+       "Roles": "[routerlink='/vlsecurity/roles']",
+       "Components": "[routerlink='/vlsecurity/components']",
+       "Resources": "[routerlink='/vlsecurity/resources']",
+       "Domains": "[routerlink='/vlsecurity/domains']",
+       "Menues": "[routerlink='/vlsecurity/menu']"      
+    },
+  
+    "TOOLS": {
+       "Query Manager": "[routerlink='/tools/query-management-list']",    
+       "Translation Manager": "[routerlink='/tools/translation-list']",
+       "Clients": "[routerlink='/tools/client-list']",
+       "Subscriptions": "[routerlink='/tools/subscription-list']",
+       "Recurring Jobs": "[routerlink='/tools/scheduler-list']",
+       "Notifications": "[routerlink='/tools/notification-list']"
+    },
+      
+    "DEVOPS": {
+       "Tenants": "[routerlink='/vldevops/tenants']",
+       "Databases": "[routerlink='/vldevops/database-list']",
+       "Database Engines": "[routerlink='/vldevops/database-engines']",
+       "Servers": "[routerlink='/vldevops/servers']",
+       "Settings": "[routerlink='/vldevops/settings']",
+       "Applications": "[routerlink='/vldevops/application-list ']",
+       "Internal Users": "[routerlink='/vldevops/user-list']",
+       "Agent Servers": "[routerlink='/vldevops/agent-server']",
+       "SFTP Config": "[routerlink='/vldevops/sftpc']"
+    }
+  },
+  
+  "VismaLatam": {
+    "PEOPLE": {
+      "Colaborador": "#employeeCard",
+
+      "Vacaciones": "#holidayCard",
+        "VacacionesSolicitadas": "[routerlink='/holidayApp/holiday']",
+        "AccionesMasivas": "[routerlink='/holidayApp/massiveAction']",
+        "HolidayModel": "[routerlink='/holidayApp/holiday-model']",
+        "HolidayDayType": "[routerlink='/holidayApp/day-type']",
+
+      "Basic Configuration": "#basicConfigurationCard",
+          "Company Assets": "#assetsCardMenu",
+          "Assets Types": "#assetsTypesCardMenu",
+          "Templates": "#templateCardMenu",
+          "TemplateTypes": "#templateTypeCardMenu",
+          "Institution": "#institutionCardMenu",
+          "Career": "#careerCardMenu",
+          "Note Type": "#noteTypeCardMenu",
+          "File Type": "#fileTypeCardMenu",
+          "TerminationReason": "#terminationReasonCardMenu",
+          "Countries": "#countriesCardMenu",
+          "Nationalities": "#nationalitiesCardMenu",          
+          "WorkElements": "#workElementsCardMenu",
+          "Employee File Ranges": "#employeeFileRangesCardMenu",
+          "Integrations": "#integrationsCardMenu",
+          "Studies Types": "#studyTypeCardMenu",
+
+          
+
+      "OccupationalHealth": "#healthCard",
+          "MedicalControls": "[routerlink='/healthApp/medical-controls']",
+          "ClinicalRecords": "[routerlink='/healthApp/clinical-records']",
+          "Doctors": "[routerlink='/healthApp/doctors']",
+          "MedicalServices": "[routerlink='/healthApp/medical-services']",
+      "Absences": "#absencesCard",
+          "AbsencesRequested": "#btnConsult",
+          "AbsencesTypes" :"#btnShowTypes",
+          "AbsencesPublicHolidays" :"#btnPublicHolidays",
+
+      "Organizacion": "#organizationCard",
+      "Reports": "#reportsCard",
+      "OperacionesMasivas": "#massiveOperationsCard",
+      "ProcessesGenerated": "#processesMonitorCard",
+
+      "Estructura": ".vl-cards-group > :nth-child(1)",
+          "CreateStructureType": "#createStructureType",
+          "CreateStructure": "#createStructure",
+          "CreateSctructureClass": "#createStructureClass",
+
+      "Modelo Organizational": ".vl-cards-group > :nth-child(3)",
+      "Cascading attribute dependency": ".vl-cards-group > :nth-child(4)",
+      
+      "LegalReports": "#legalReportsCard"
+    },
+
+    "PAYROLL": { 
+      "PayrollConfiguration": "#payrollConfigurationCardMenu",
+      "Operations": "#operationContentCard",
+      "Payroll Management": "#payrollManagementCardMenu",
+
+      "Concepts": "#conceptCardMenu",
+      "Accumulator": "#accumulatorCardMenu",
+      "PayrollSearch": "#payrollSearchCardMenu",
+      "Parameter": "#payrollParameterCardMenu",
+      "Formulas": "#payrollFormulaCardMenu",
+      "PayrollScope": "#payrollScopeCardMenu",
+      
+      "Contabilidad": "#accountingCardMenu",
+      "Payroll BasicConfiguration": "#basicConfigurationCardMenu",
+      "SalaryAdvance": "#payrollExpendituresAdvanceContentTitle",      
+        "SalaryAdvanceType": "#salaryAdvanceTypesCardMenu",
+        "Periods": "#payrollPeriodCardMenu",
+        "Payroll Model": "#payrollModelCardMenu",
+        "AdvancePaymentRequested": "#payrollExchangeCardMenu",
+        "MassiveActions": "#massiveActionsCardMenu",
+
+      "Escala": "#payrollScaleCardMenu",
+      "Ganancias": "#payrollProfitCardMenu",
+      "Pagos": "#payrollPaymentCardMenu",
+      "Currencies": "#payrollExchangeCardMenu",
+        "Currency Types": "#currencyTypesCardMenu",
+        "Exchange Rates": "#exchangeRatesCardMenu",
+      "Exchanges": "#exchangeRatesDescriptionContentDescription", 
+      "RetencionesJudiciales": "#payrollJudicialRetentionCardMenu",
+      "Anticipos": "#payrollExpenditureAdvanceCardMenu",
+      "Prestamos": "#payrollLoanCardMenu",
+      "Beneficios": "#payrollBenefitCardMenu",
+      "Tickets": "#payrollTicketCardMenu",
+      "CustomProcessingPeriods": "#customProcessingPeriodCardMenu",
+
+      "MOPRE": "#mopreCardMenu",
+      "ReportesPayroll": "#reportsCardMenu",
+      "MonitordeProcesos": "#processesMonitorCardMenu",
+
+      "Novelties": "#payrollNoveltiesCardMenu",
+      "NoveltiesByEmployee": "#noveltiesByEmployeeCardMenu",
+      "NoveltiesByConcept": "#noveltiesByConceptCardMenu",
+      "DebbugingOfNovelties": "#debuggingOfNoveltiesCardMenu",
+      "Payment": "#payrollPaymentCardMenu",
+      "Payment Type": "#payrollPaymentTypesContentCard",
+
+      "PayrollPaymentRequest": "#payrollManagementCardMenu",
+        "PayrollProcessesCard": "payrollProcessesCardItem",
+       "Payroll PaymentRequest" : "#payrollPaymentRequests",
+       "PayrollProcessesCard1" : "#payrollProcesses0"
+       
+        
+
+    }
+  }
+}

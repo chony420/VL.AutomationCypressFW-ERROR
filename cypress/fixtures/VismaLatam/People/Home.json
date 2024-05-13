@@ -1,0 +1,9 @@
+{
+    "Cards Link":".vl-card-main a",
+    "Carousel Paragraph":"#carouselItem p",
+    "Mat Cards":"mat-card.vl-card",
+    "Cards Paragraph":".vl-card p",
+    "Mat Cell": ".mat-cell", 
+    "Td Cell": "td", 
+    "Progress Spinner": "[role='progressbar'].skeleton-loader"
+}

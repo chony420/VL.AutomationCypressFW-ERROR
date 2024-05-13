@@ -1,0 +1,19 @@
+{
+    "CustomProcessingPeriods Filter": "#filterpayrollModel",
+    "Description": "#description",
+    "Description Validation": "#descriptionValidation",
+    "Month": "#month > .ng-select-container > .ng-arrow-wrapper",
+    "Year": "#year",
+    "Year Validation": "#yearValidation",
+    "StartDate": "#startDate",
+    "StartDate Validation": "#startDateValidation",
+    "EndDate": "#endDate",
+    "EndDate Validation": "#endDateValidation",
+    "structureTypeId": "#structureTypeId > ng-arrow-wrapper",
+    "CustomProcessingPeriods Skeleton": ".skeleton-table",
+    "DesciptionFIeld Skeleton": ".col-md-6 > .skeletonObject > .skeleton-input-h25",
+    "Structure Scope": "#structureTypeId > .ng-select-container > .ng-arrow-wrapper",
+    "Structures Drag and Drop Search": "#structures-drag-and-drop_unassigned_searchInput",
+    "Left Attributes Drawer Chip": ":nth-child(1) > vlfrontpayroll-drag-and-drop-panel > .panel-header > .result > .mr-0",
+    "Right Attributes Drawer Chip": ":nth-child(3) > vlfrontpayroll-drag-and-drop-panel > .panel-header > .result > .mr-0"
+}

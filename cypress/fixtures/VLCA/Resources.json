@@ -1,0 +1,17 @@
+{
+  "Resources": "[data-cy=resources]",
+  "Create": "[data-cy=create]",
+  "ID": "[data-cy=id]",
+  "Description": "[data-cy=description]",
+  "Select type": "[data-cy=selectType]",
+  "Select domain": "[data-cy=selectDomain]",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]",
+  "Error": "#templateTypeError",
+  "Search": "[data-cy=filterResource]",
+  "Grid Table": "[data-cy=gridTable]",
+  "Id sorter arrow": "[data-cy=idSort]",
+  "Description sorter arrow": "[data-cy=descriptionSort]",
+  "Domain sorter arrow": "[data-cy=domainSort]",
+  "Type sorter arrow": "[data-cy=typeSort]"
+}

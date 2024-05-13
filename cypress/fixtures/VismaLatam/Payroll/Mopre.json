@@ -1,0 +1,14 @@
+{
+  "Parameter": "#parameterId",
+  "Substraction": "#subtraction > label > span > .mat-radio-outer-circle",
+  "Drag Drop Left": "#dragDropLeft",
+  "Drag Drop Right": "#dragDropRight > div > div",
+  "Unassigned": "#unassignedInput",
+  "Assigned": "#assignedInput",
+  "Divisor": ".ng-dropdown-panel-items > div > :nth-child(1) > .ng-star-inserted",
+  "Sutraction": "#subtraction",
+  "Addition": "#addition",
+  "Wrapper Parameter": "#parameterId   > .ng-select-container > .ng-arrow-wrapper"
+  
+
+}

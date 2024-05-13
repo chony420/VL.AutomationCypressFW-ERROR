@@ -1,0 +1,9 @@
+{
+    "Description": "#description",
+    "Description Validation": "#descriptionValidation",
+    "External Code": "#externalCode",
+    "ID Structure": "#idStructure",
+    "End of Relationship": "endofRelationship-input",
+    "Filter Termination Reason": "#filterTerminationReason",
+    "Clear Wrapper": ".ng-clear-wrapper"
+}

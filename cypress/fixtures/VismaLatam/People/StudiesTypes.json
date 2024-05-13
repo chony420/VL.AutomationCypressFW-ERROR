@@ -1,0 +1,11 @@
+{
+    "Studies Types Filter Grid": "#filterStudyTypes",
+    "Description": "#description",
+    "Id Education Level": "#idEducationLevel",
+    "Duration": "#duration",
+    "Percentaje": "#percentage",
+    "Studies Types Skeleton": ".skeleton-table",
+    "Form Skeleton": ".skeleton-input-h25",
+    "Description Validation": "#descriptionValidation"
+
+}

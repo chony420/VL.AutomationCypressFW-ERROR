@@ -1,0 +1,19 @@
+{
+  "User Groups": "[data-cy=userGroups]",
+  "Select Tenant": "[data-cy=tenant]",
+  "Create": "[data-cy=create]",
+  "Input Name": "[data-cy=name]",
+  "Input Description": "[data-cy=description]",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]",
+  "Search": "[data-cy=search]",
+  "Id sorter arrow": "[data-cy=idSort]",
+  "Name sorter arrow": "[data-cy=name]",
+  "Description sorter arrow": "[data-cy=description]",
+  "Paginator": "[data-cy=paginator]",
+  "Select all": "#selectAllLeft",
+  "Deselect all": "#selectAllLeft",
+  "Assign arrow": "#moveUnassigned",
+  "Unassign arrow": "#moveAssigned",
+  "Message bar": "app-snack-bar"
+}

@@ -1,0 +1,10 @@
+{
+  "Created": "#createdSuccessfully",
+  "Modified": "#modifiedSuccessfully",
+  "Deleted": "#deletedSuccessfully",
+  
+  "Created_txt": " ¡Creado con éxito!",
+  "Modified_txt": "Modificado correctamente",
+  "Deleted_txt": "Eliminado correctamente"
+}
+

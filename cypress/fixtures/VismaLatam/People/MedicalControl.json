@@ -1,0 +1,21 @@
+{
+   "Control Type":"#idControlType > .ng-select-container > .ng-value-container > .ng-input > input",
+   "Absence Type":"#idAbsenceType > .ng-select-container > .ng-value-container > .ng-input > input",
+   "Control Action":"#idAction > .ng-select-container > .ng-value-container > .ng-input > input",
+   "Tracking Type":"#idTrackingType > .ng-select-container > .ng-value-container > .ng-input > input",
+   "Employee Search":"#formEmployeeSearch",
+   "Date":"#date",
+   "Date From": "#dateFrom",
+   "Absence Extension": "[title='Extensión de la Ausencia']",
+   "Rest Days": "#restDays",
+   "Pathology Search": "#pathologySearch",
+   "Pathology Description": "#description",
+   "Pathology Option": ".mat-option-text>.autoCompleteText",
+   "FileNumber": "#fileNumber",
+   "Doctor":"[formcontrolname='idOccupationalDoctor'] > .ng-select-container > .ng-value-container > .ng-input > input",
+   "Medical Service":"#idMedicalService > .ng-select-container > .ng-value-container > .ng-input > input",
+   "Open calendar":"button[aria-label='Open calendar']",
+   "Private Doctor":"#privateDoctor > .mat-radio-label > .mat-radio-container > .mat-radio-inner-circle",
+   "Enrollment Doctor":"#enrollment",
+   "Private Doctor Name":"#privateDoctorName"
+}

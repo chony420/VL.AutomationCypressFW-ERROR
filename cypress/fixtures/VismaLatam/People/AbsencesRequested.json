@@ -1,0 +1,37 @@
+{
+    "SearchCollaborator": "#employeeSearch",
+    "RangeDaysFrom": "#dateFrom",
+    "RangeDaysTo": "#dateTo",
+    "AbsenceType": "#idAbsenceType",
+
+    "Filter Skeleton":".skeleton-input-h25",
+    "SearchCollaborator (Obligatory Validation)": "#employeeValidation",
+    "RangeDaysTo (Obligatory Validation)": "#dateToValidation",
+    "AbsenceType (Obligatory Validation)": "#idAbsenceTypeValidation",
+
+    "MarkContinuousAbsence": "#markContinuousAbsence > .mat-checkbox-layout > .mat-checkbox-inner-container",
+    "pathologySearch": "#pathologySearch",
+    
+    "PartialAbsence": "#partialAbsenceTitle",
+    "AssignAbsenceTimeRange": "#active > .mat-checkbox-layout > .mat-checkbox-inner-container",
+    "FixedSchedule": "#fixedSchedule",
+    "StartTime": "#timeFrom > .ngx-timepicker > .ngx-timepicker__control--first > .ngx-timepicker-control > .ngx-timepicker-control__input",
+    "StartMinute": "#timeFrom > .ngx-timepicker > .ngx-timepicker__control--third > .ngx-timepicker-control > .ngx-timepicker-control__input",
+    "EndTime": "#timeTo > .ngx-timepicker > .ngx-timepicker__control--first > .ngx-timepicker-control > .ngx-timepicker-control__input",
+    "EndMinute": "#timeTo > .ngx-timepicker > .ngx-timepicker__control--third > .ngx-timepicker-control > .ngx-timepicker-control__input",
+    "NumberOfHours": "#numberOfHours",
+    "Hours": "#hours",
+
+    "Hours (Obligatory Validation)": "#hoursValidation",
+
+    "AttachCertificate": "#attachCertificateTitle",
+
+    "Description": "#description",
+
+    "ImportTemplate": ".ng-arrow-wrapper",
+
+    "ImportTemplate (Obligatory Validation)": "#templateValidation"
+
+
+    
+}

@@ -1,0 +1,6 @@
+{
+  "Subscriptions": "[data-cy=gridSubscriptions]",
+  "Tenants": "[data-cy=gridTenants]",
+  "Raet Time": "[data-cy=RaetTime]",
+  "Inactive": "[data-cy=inactive]"
+}

@@ -1,0 +1,19 @@
+{
+    
+"Element Description":"#description",
+"External Code":"#externalCode",
+"Brand":"#brand",
+"Expiration Date":"#expirationDate", 
+"Claim":"claim-input",
+"Claim Check":"#claim > .mat-checkbox-layout > .mat-checkbox-inner-container > input",
+"Options Check":"#addElementOptions > .mat-checkbox-layout > .mat-checkbox-inner-container > input",
+"Certified Check":"#accountWithCertification > .mat-checkbox-layout > .mat-checkbox-inner-container > input",
+"Certified":"accountWithCertification-input",
+"Element Options":"addElementOptions-input",
+"WorkElements grid filter": "#filterWorkElements",
+"Feature":"#idFeature > div > div > div > input[role='combobox']",
+"Category": "#category > div > div > div > input[role='combobox']",
+"Add Element": "#addElement0",
+"Options": "#description0",
+"Options 2": "#description1" 
+  }

@@ -1,0 +1,8 @@
+{
+  "Country": ".ng-input > input",
+  "Country (Obligatory Validation)": "#countryValidation",
+  "Description": "#description",
+  "Description (Obligatory Validation)": "#descriptionValidation",
+  "External Code": "#externalCode",
+  "Filter Grid": "#filterGrid"
+}

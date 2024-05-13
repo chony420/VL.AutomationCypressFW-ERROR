@@ -1,0 +1,8 @@
+{
+    "VLCM Breadcrumb": "#VLCM",
+    "VLCM Card": "#VLCMCard",
+    "NavBar Menu": "#expandOrContract",
+    "NavBar UserManagement": "a[href='/userManagement/users']",
+    "NavBar Item JobMonitor": "a[href='/jobMonitor/dashboard'] > span",
+    "NavBar Close": "img[src='assets/icons/action/black/close.svg'][width='30']"
+}

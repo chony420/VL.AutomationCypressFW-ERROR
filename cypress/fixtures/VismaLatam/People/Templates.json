@@ -1,0 +1,35 @@
+{
+
+    "Check Active": "#active-input",
+    "Name": "#name",
+    "Template Type": "#templateType> .ng-select-container > .ng-value-container > .ng-input > input",
+    "Clear Template Type": "#templateType > .ng-select-container > .ng-clear-wrapper",
+    "Description": "#description",
+    "Origin": "#origin",
+    "Clear Origin": "#origin > .ng-select-container > .ng-clear-wrapper",
+    "Filter": "#filter",
+    "Clear Filter": "#filter > .ng-select-container > .ng-clear-wrapper",
+    "Start Date": "#startDate",
+    "End Date": "#endDate",
+    "Output Template Name": "#outputTemplateName",
+    "Check Colaborador": "#visibleInEmployeeSelfService-input",
+    "Check Manager": "#visibleInManagerSelfService-input",
+    "Name Validation": "#nameValidation",
+    "Description Validation": "#descriptionValidation",
+    "Template Type Validation": "#templateTypeValidation",
+    "Origin Validation": "#originValidation",
+    "Filter Validation": "#filterValidation",
+    "Output Template Validation": "#outputTemplateNameValidation",
+    "Start Date Validation": "#startDateValidation",
+    "End Date Validation": "#endDateValidation",
+    "Output Template Name Validation": "#outputTemplateNameValidation",
+    "Upload File": "#iconUploadFile",
+    "Search": "#search",
+    "Search References": "#mat-dialog-title-0 > .mat-form-field > .mat-form-field-wrapper > .mat-form-field-flex > .mat-form-field-infix > #search",
+    "Visible In Employees Self Service": "visibleInEmployeeSelfService-input",
+    "Manager": "visibleInManagerSelfService-input",
+    "Active": "active-input"
+
+    
+    
+  }

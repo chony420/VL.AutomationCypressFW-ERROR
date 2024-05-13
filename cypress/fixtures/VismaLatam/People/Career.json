@@ -1,0 +1,14 @@
+{
+    "Description": "#description",
+    "Description (Obligatory Validation)": "#descriptionValidation",
+    "Add Button": "#feedbackAction",
+    "Filter Grid": "#filterGrid", 
+    "Payroll Skeleton":".skeleton-input-h25",
+    "Institution": "#institution0",
+    "Institution (Obligatory Validation)": "#institution0Validation",
+    "External Code": "#externalCode0",
+    "Institution1": "#institution1",
+    "External Code1": "#externalCode1",
+    "Remove Institution": "#removeInstitution",
+    "Add Institution": "#addInstitution"
+}

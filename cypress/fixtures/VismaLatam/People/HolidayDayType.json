@@ -1,0 +1,13 @@
+{
+    "Description": "#description",
+    "DayType": "#DayType",
+    "Sunday": ":nth-child(2) > .mat-option-text",
+    "Monday": ":nth-child(3) > .mat-option-text",
+    "Tuesday": ":nth-child(4) > .mat-option-text",
+    "Wednesday": ":nth-child(5) > .mat-option-text",
+    "Thursday": ":nth-child(6) > .mat-option-text",
+    "Friday": ":nth-child(7) > .mat-option-text",
+    "Saturday": ":nth-child(8) > .mat-option-text",
+    "Day Type Filter Grid": "#filterDayTypeService"
+    
+}

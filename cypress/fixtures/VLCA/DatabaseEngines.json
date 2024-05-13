@@ -1,0 +1,18 @@
+{
+  "Database Engines": "[data-cy=database-engine]",
+  "Search": "[data-cy=filterDomain]",
+  "Update": "[data-cy=update]",
+  "Create": "[data-cy=create]",
+  "Database Engine Form": "[data-cy=formTemplateType]",
+  "Server": "[data-cy=server]",
+  "Datasource": "[data-cy=datasource]",
+  "User": "[data-cy=user]",
+  "Password": "[data-cy=password]",
+  "Connection string": "[data-cy=connectionString]",
+  "Engine type": "[data-cy=engineType]",
+  "Version": "[data-cy=version]",
+  "Engine": "[data-cy=engine]",
+  "Toggle Enable": "[data-cy=activa]",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]"
+}

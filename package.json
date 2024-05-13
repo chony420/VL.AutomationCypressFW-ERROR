@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "bindings": "^1.5.0",
+    "cypress": "^13.9.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.0",
+    "nan": "^2.14.2"
+  },
+  "scripts": {
+    "e2e": "cypress open",
+    "VLCA": "cypress run --spec cypress/integration/ToolsQueryManagement.feature --reporter junit",
+    "VLCA-full": "cypress run --browser chrome --spec cypress/integration/Features/**/*.feature --reporter junit",
+    "VLCA-chrome-hl": "cypress run --browser chrome --headless --spec cypress/integration/*.feature --reporter junit",
+    "e2echrome": "cypress open --browser C:/PROGRA~1/Google/Chrome/Application/chrome.exe",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "VLCAR": "cypress run --spec cypress/integration/ToolsQueryManagement.feature --reporter junit",
+    "Reporte": "cypress run --reporter mochawesome"
+  },
+  "cypress-cucumber-preprocessor": {
+    "filterSpecs": true,
+    "omitFiltered": true,
+    "nonGlobalStepDefinitions": false,
+    "step_definitions": "cypress/support/step_definitions/"
+  },
+  "dependencies": {
+    "7": "0.0.1",
+    "chokidar": "^3.5.2",
+    "glob-parent": "^5.1.2",
+    "mocha": "^9.0.1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+}

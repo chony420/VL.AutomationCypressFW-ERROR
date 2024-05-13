@@ -1,0 +1,6 @@
+{
+    "Spinner": "vlfrontpayroll-loading-spinner",
+    "Loading Text": ".loading-text",
+    "Loading Absences Grid": ".loading",
+    "ReportSpinner":"[name='reportViewerSpinner']>ngx-spinner>div>.loading-text"
+}

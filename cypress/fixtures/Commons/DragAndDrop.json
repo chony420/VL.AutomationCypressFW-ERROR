@@ -1,0 +1,10 @@
+{
+  "Incompatibilities Assign arrow": "vlfrontpayroll-payroll-model-incompatibilities>div>div>#dragDropList>div>ul>li:nth-of-type(2)>div>div>#moveUnassigned",
+  "Incompatibilities Unassign arrow": "vlfrontpayroll-payroll-model-incompatibilities>div>div>#dragDropList>div>ul>li:nth-of-type(2)>div>div>#moveAssigned",
+  "Assign arrow": "#moveUnassigned",
+  "Unassign arrow": "#moveAssigned",
+  "Move To Assigned": "#moveToAssignedButton",
+  "Move All To Unassigned": "#moveAllToUnassignedButton",
+  "SelectAllLeft": "#selectAllLeft",
+  "SelectAllRight": "#selectAllRight"
+}

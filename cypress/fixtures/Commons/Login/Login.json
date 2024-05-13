@@ -1,0 +1,13 @@
+{
+    "Username": "[id='username']",
+    "Password": "[id='password']",
+    "SignIn": "[id='signIn']",
+    "Profile": "[data-cy=gotoUserProfile]",
+    "Logout": "[data-cy=logout]",
+    "LoginError": "#loginError",
+    "Database":"[id='tenant']",
+    "ChooseBtn":"[id='btnSelectTenant']",
+    "UserProfile":"[id='profileImage']",
+    "CloseSession":"[class='link ml-10']"
+    
+}

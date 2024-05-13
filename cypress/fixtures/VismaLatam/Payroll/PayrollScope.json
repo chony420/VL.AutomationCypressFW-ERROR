@@ -1,0 +1,10 @@
+{
+    "Unassigned":"#undefined_unassigned_searchInput", 
+    "Drag Drop Left Empresa":"[title='Empresa']",
+    "Assigned":"#undefined_assigned_searchInput",
+    "Edit Company":":nth-child(2) > .edit-box > .icon-system-edit",
+    "Edit Activity":":nth-child(1) > .edit-box > .icon-system-edit",
+    "Structure Type Scope":".textFit",
+    "Progress Spinner": "[role='progressbar'].skeleton-loader", 
+    "Order":"[data-placeholder='Orden']"
+}

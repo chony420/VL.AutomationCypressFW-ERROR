@@ -1,0 +1,6 @@
+{
+    "ADP": "#ctl00_content_ctl05_Repeater2_ctl01_LinkButton3 > :nth-child(2)",
+    "Password": "[id='ctl00_content_cLogin_txtPassword']",
+    "Payroll": "#ctl00_content_ctl05_Repeater2_ctl03_LinkButton3 > :nth-child(2)"
+    
+}

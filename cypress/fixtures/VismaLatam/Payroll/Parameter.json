@@ -1,0 +1,10 @@
+{
+    "Description": "#description",
+    "Description (Obligatory Validation)": "#descriptionValidation",
+    "Unit": "input[type='text']",
+    "Unit (Obligatory Validation)": "#idUnitMeasureValidation",
+    "Observation": "#observations", 
+    "Span Unity": ".ng-value-label.ng-star-inserted",
+    "Parameter Table Skeleton":".skeleton-table" ,
+    "Parameter grid filter": "#filterpayrollModel"
+}

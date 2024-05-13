@@ -1,0 +1,11 @@
+{
+    "Validity Date": "#validityDate",
+    "Origin Currency": "#originCurrencyId > div > div > div[role='combobox']",
+    "Destination Currency": ".ng-invalid.ng-dirty > :nth-child(3) > :nth-child(2)>#destinationCurrencyId > div > div > div[role='combobox']",
+    "Origin": "#destinationCurrencyId > .ng-select-container > .ng-value-container > .ng-input > input",
+    "Destination": "#destinationCurrencyId > .ng-select-container > .ng-value-container > .ng-input > input",
+    "Card USD Value": "#ARS-USD > .card-content-exchangeRate > .value",
+    "Value": "#value",
+    "Payroll Skeleton":".skeleton-input-h25",
+    "Ellipsis Card 1":"#ARS-USD > .row > .col-md-1 > vlfrontpayroll-elipsis-grid > #options"
+}

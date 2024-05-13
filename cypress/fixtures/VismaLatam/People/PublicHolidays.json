@@ -1,0 +1,10 @@
+{
+    "Country": "#country > .ng-select-container > .ng-value-container > .ng-input",
+    "Type Public Holiday": "#typePublicHoliday > .ng-select-container > .ng-value-container > .ng-input > input",
+    "Description": "#description",
+    "Description Validation": "#descriptionValidation",
+    "Date": "#date",
+    "Work Day": "workDay-input"
+
+
+}

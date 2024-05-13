@@ -1,0 +1,13 @@
+{
+  "Username": "input#identifierId",
+  "UsernameNextBtn": "#identifierNext button",
+  "Password": "input#password",
+  "PasswordNextBtn": "button#passwordNext",
+  "SignIn": "#signIn",
+  "UserProfile": "#profileImage",
+  "ConfirmLogOut": "[data-cy=logout]",
+  "SecurityCard": "#resourcesCard",
+  "Roles": "#RolesCard > .card-dashboard-menu-button",
+  "TrustCookiesBtn": "#onetrust-accept-btn-handler",
+  "GoogleAuthBtn": "#google-external-auth-button"
+}

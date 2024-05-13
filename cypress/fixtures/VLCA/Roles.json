@@ -1,0 +1,15 @@
+{
+  "Roles": "[data-cy=roles]",
+  "Create": "[data-cy=create]",
+  "Input Name": "[data-cy=name]",
+  "Input Description": "[data-cy=description]",
+  "Select Tenant": "[data-cy=tenant]",
+  "Checkbox sistema": "[data-cy=checkboxSystem]",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]",
+  "Search": "[data-cy=filterRole]",
+  "Grid Table": "[data-cy=gridTable]",
+  "Id sorter arrow": "[data-cy=idSort]",
+  "Name sorter arrow": "[data-cy=nameSort]",
+  "Description sorter arrow": "[data-cy=descriptionSort]"
+}

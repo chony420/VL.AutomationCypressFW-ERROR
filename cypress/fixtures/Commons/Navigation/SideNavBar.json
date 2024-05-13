@@ -1,0 +1,38 @@
+{
+  "Visma Logo": "[data-cy=vismaLogo]",
+  "Side Bar": "[data-cy=sideNavBar]",
+ 
+ "VLCA": {
+   "SECURITY": {
+      "Users":"[data-cy=sideBarUsers]",
+      "User Groups": "[data-cy=sideBarUserGroups]",
+      "Roles": "[data-cy=sideBarRoles]",
+      "Components": "[data-cy=sideBarComponents]",
+      "Resources": "[data-cy=sideBarResources]",
+      "Domains": "[data-cy=sideBarDomains]",
+      "Menues": "[data-cy=sideBarMenu]"               
+   },
+ 
+   "TOOLS": {
+      "Query Manager": "[data-cy=sideBarQueryManagement]",    
+      "Translation Manager": "[data-cy=sideBarTranslationManager]",
+      "Clients": "[data-cy=sideBarClients]",
+      "Subscriptions": "[data-cy=sideBarSubscriptions]",
+      "Recurring Jobs": "[data-cy=sideBarScheduler]",
+      "Notifications": "[data-cy=sideBarNotification]"
+   },
+     
+   "DEVOPS": {
+      "Tenants": "[data-cy=sideBarTenants]",
+      "Databases": "[data-cy=sideBarDatabases]",
+      "Database Engines": "[data-cy=sideBarDatabaseEngines]",
+      "Servers": "[data-cy=sideBarServers]",
+      "Settings": "[data-cy=sideBarSetings]",
+      "Applications": "[data-cy=sideBarApplications]",
+      "Internal Users": "[data-cy=sideBarInternalUsers]",
+      "Agent Servers": "[data-cy=sideBarAgentServers]",
+      "SFTP Config": "[data-cy=sideBarAgentServers]"      
+   }
+ }
+ 
+}

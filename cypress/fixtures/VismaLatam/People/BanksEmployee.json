@@ -1,0 +1,23 @@
+{ 
+    "Add Bank Account": "#addBanckAccount",
+    "Modal Bank Account Employee": "#spinnerModalBankAccountEmployee",
+    "Payment Method":"#paymentMethod > div > div > div >input",
+"Type Payment":"#paymentType > div > div > div >input",
+"Bank":"#bank > div > div > div >input",
+"Company Bank Account":"#companyBankAccount > div > div > div > input",
+"Bank Account Number":"#bankAccountNumber  ",
+"Company Branch":"#companyBranch  ",
+"Code Company Branch":"#codeCompanyBranch ",
+"CBU Number Validation":"#cbuNumberValidation ",
+"Payment Percentage Validation":"#paymentPercentageValidation ",
+"Payment Percentage":"#paymentPercentage ",
+"Options 1":":nth-child(1) > .align-right > .ng-star-inserted > app-elipsis-grid > #options",
+"Options 2":":nth-child(2) > .align-right > .ng-star-inserted > app-elipsis-grid > #options",
+"Options":"#options", 
+"Modify":"#btnGridedit",
+"Row Table":"table>tbody[role='rowgroup']>tr",
+"Activate":"#btnGridactive",
+"Delete":"#btnGriddelete",
+"cbuNumber":"#cbuNumber ",
+"Inactivate":"#btnGridinactive "
+  }

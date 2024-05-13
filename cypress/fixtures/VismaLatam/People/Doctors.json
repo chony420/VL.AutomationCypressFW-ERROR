@@ -1,0 +1,15 @@
+{
+    "Name": "#firstName",
+    "Surname": "#lastName",
+    "Enrollment": "#enrollment",
+    "Enrollment Expiration Date": "#enrollmentExpirationDate",
+    "Document Number": "#documentNumber",
+    "Document Expiration Date": "#documentExpirationDate",
+    "Enrollment Expiration Date Validation": "#enrollmentExpirationDateValidation",
+    "Document Expiration Date Validation": "#documentExpirationDateValidation",
+    "Filter Doctors": "#filterDoctors",
+    "First Name Validation": "#firstNameValidation",
+    "Surname Validation": "#lastNameValidation",
+    "Enrollment Validation": "#enrollmentValidation",
+    "Document Number Validation": "#documentNumberValidation"
+}

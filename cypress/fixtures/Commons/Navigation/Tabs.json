@@ -1,0 +1,19 @@
+{
+  "VismaLatam": {
+    "PEOPLE": {
+       "Structure Attribute": "#structAttributeTab",
+       "Structure Type": "#structureTypeTab",
+       "Structure Class": "#structureClassTab",
+       "Work Elements": "#mat-tab-label-0-6",
+       "Vaccines": "#mat-tab-label-0-1 > .mat-tab-label-content",
+       "Medical Exams": "#mat-tab-label-0-2",
+       "Elementos": "#mat-tab-label-1-6"
+          
+        },
+        "PAYROLL": {
+         "Processes": "#mat-tab-label-1-5",
+         "Adjustment Novelties": "#mat-tab-label-0-1 > .mat-tab-label-content > .ng-star-inserted",
+         "Organization": "#mat-tab-label-0-1 > .mat-tab-label-content > :nth-child(1)"
+        }
+  }
+}

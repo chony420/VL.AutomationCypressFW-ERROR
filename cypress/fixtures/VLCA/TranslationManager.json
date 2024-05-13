@@ -1,0 +1,18 @@
+{
+  "Translation Manager": "[data-cy=translation]",
+  "Create": "[data-cy=create]",
+  "Query Form": "[data-cy=queryForm]",
+  "Tag Identifier": "[data-cy=idTag]",
+  "Translation row": "[data-cy=langTranslate]",
+  "Language and Country": "[data-cy=languageRow_0]",
+  "Translation": "[data-cy=translation_0]",
+  "Add translation": "[data-cy=plusBtn_0]",
+  "Remove translation": "[data-cy=removeBtn_1]",
+  "New Translation Line": "[formarrayname='langTranslate']",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]",
+  "Back Arrow": "[data-cy=backArrow]",
+  "Select Language": "[data-cy=selectLanguage]",
+  "Search": "[data-cy=search]",
+  "Paginator": "[data-cy=paginator]"
+}

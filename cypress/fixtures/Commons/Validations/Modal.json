@@ -1,0 +1,14 @@
+{
+    "Dialog": ".cdk-overlay-pane>[role=dialog]",
+    "Accept": "#accept",
+    "Modal Cancel": "#cancel",
+    "Save": "#save > .btn-small",
+    "Close": ".icon-action-close",
+    "Change without save-Alert": "mat-dialog-0",
+    "Change without save-Message": "¿Estás seguro de que querés salir?. Perderás los cambios no guardados.",
+    "Parameter Formulas text": "Fórmulas que usan el parámetro",
+    "Delete Confirm": "¡Atención!¿Estás seguro de que querés eliminar el registro?. Esta acción es permanente y no se puede deshacer. Cancelar  Aceptar ",
+    "Model Incompatibility Title": "Tipo de incompatibilidad",
+    "Model Absolut Incompatibility": "Los colaboradores no prodrán ser incorporados en un mismo período, a dos procesos de modelos incompatibles.",
+    "Model Notification Incompatibility": "Los colaboradores serán incorporados, pero se generará un aviso de incompatibilidad de modelos."
+}

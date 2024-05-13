@@ -1,0 +1,9 @@
+{
+    "Descripcion": "#description",
+    "TipoBien": ".ng-input > input",
+    "Codigo": "#code",
+    "Precio": "#price",
+    "Guardar": "#save",
+    "Crear": "[id='create']"
+
+  }

@@ -1,0 +1,10 @@
+{
+    "Description": "#description",
+    "Description Validation": "#descriptionValidation",
+    "Initials": "#externalCode",
+    "Initials Validation": "#externalCodeValidation",
+    "Document Type": "#fileType",
+    "Document Type Validation": "#fileTypeValidation",
+    "Clear Document Type": ".ng-clear-wrapper",
+    "Template Type grid filter": "#search"
+}

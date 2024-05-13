@@ -1,0 +1,24 @@
+{
+  "Menu-cy": "[data-cy=ellipsis]",
+  "Edit-cy": "[data-cy=ellipsis_edit]",
+  "Delete-cy": "[data-cy=ellipsis_delete]",
+  "Update-cy": "[data-cy=ellipsis_update]",
+  "Search-cy": "[data-cy=ellipsis_search]",
+  "View-cy": "[data-cy=ellipsis_view]",
+  "Show Query-cy": "[data-cy=ellipsis_view]",
+  "Duplicate-cy": "[data-cy=ellipsis_duplicate]",
+  "Open-cy": "[data-cy=ellipsis_open]",
+  "Import-cy": "[data-cy=ellipsis_import]",
+  "Activate-cy": "[data-cy=ellipsis_active]",
+  "Deactivate-cy": "[data-cy=ellipsis_inactive]",
+  "Download-cy": "[data-cy=ellipsis_download]",
+  
+  "FrontEnd Reports": "vlfrontendreports-root",
+  "Options": "#options",
+  "Options Span": "span#options",
+  "List": ".mat-menu-content",
+  "Visualize": "#btnGridview",
+  "List Material": ".mat-select",
+  "Grid Cell": "td[title='#{content}']",
+  "Menu Item Button": "button[role='menuitem']"
+}

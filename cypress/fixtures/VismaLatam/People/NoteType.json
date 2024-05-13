@@ -1,0 +1,6 @@
+{
+    "Description": "#description",
+    "Description Validation": "#descriptionValidation",
+    "Confidential":"confidential-input",
+    "Filter Note Type": "#filterNoteType"    
+}

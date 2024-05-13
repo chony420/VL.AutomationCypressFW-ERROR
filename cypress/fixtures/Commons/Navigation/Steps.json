@@ -1,0 +1,13 @@
+{
+  "VismaLatam": {
+      "PAYROLL": {
+        "Payroll-Process-Step-1": ".mat-horizontal-stepper-header-container>.mat-step-header[role='tab']:nth-of-type(1)",
+        "Payroll-Process-Step-2": ".mat-horizontal-stepper-header-container>.mat-step-header[role='tab']:nth-of-type(2)",
+        "Payroll-Process-Step-3": ".mat-horizontal-stepper-header-container>.mat-step-header[role='tab']:nth-of-type(3)",
+
+        "Payroll-MassiveActionType-Step-1": ".mat-horizontal-stepper-header-container>.mat-step-header[role='tab']:nth-of-type(1)",
+        "Payroll-MassiveActionType-Step-2": ".mat-horizontal-stepper-header-container>.mat-step-header[role='tab']:nth-of-type(2)",
+        "Payroll-MassiveActionType-Step-3": ".mat-horizontal-stepper-header-container>.mat-step-header[role='tab']:nth-of-type(3)"
+    }
+  }
+}

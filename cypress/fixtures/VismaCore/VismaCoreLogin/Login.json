@@ -1,0 +1,18 @@
+{
+    "Username": "[id='ctl00_content_cLogin_txtUserName']",
+    "Password": "[id='ctl00_content_cLogin_txtPassword']",
+    "SignIn": "[id='ctl00_content_cLogin_PopUp_BotonControlar']",
+    "Profile": "[data-cy=gotoUserProfile]",
+    "Logout": "[data-cy=logout]",
+    "LoginError": "#loginError",
+    "Database":"[id='ctl00_content_cLogin_cmbDatabase']",
+    "UserProfile":"[id='profileImage']",
+    "Login":"[id='ctl00_content_Btn_Login_MenuTop']",
+    "ChooseBtn":"[id='ctl00_content_cLogin_PopUp_BotonLogin']",
+    "TestArgentina":"[value='2']",
+    "UserLoged":"#ctl00_content_Btn_Login_MenuTop",
+    "CloseSession":"#ctl00_content_cLogin_CerrarSesion"
+
+    
+    
+}

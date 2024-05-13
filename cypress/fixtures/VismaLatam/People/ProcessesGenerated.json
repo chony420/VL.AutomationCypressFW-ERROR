@@ -1,0 +1,5 @@
+{
+    "Select module": ".mt-10 > .mat-form-field > .mat-form-field-wrapper > .mat-form-field-flex > .mat-form-field-infix",
+    "Search": "#search",
+    "Salud ocupacional": "#mat-option-6 > .mat-option-text"
+}

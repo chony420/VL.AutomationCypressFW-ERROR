@@ -1,0 +1,16 @@
+{
+    "Name": "[data-cy=name]",
+    "Description": "[data-cy=description]",
+    "Server type": "[formcontrolname=typeId]",
+    "IP": "[data-cy=ip]",
+    "Location": "[data-cy=location]",
+    "WS Alerts": "[data-cy=wsAlerts]",
+    "Brand": "[data-cy=brand]",
+    "Server OS": "[data-cy=serverOS]",
+    "Admin": "[data-cy=admin]",
+    "Warranty Type": "[data-cy=warrantyType]",
+    "Responsible": "[data-cy=responsible]",
+    "Start Date": "[data-cy=startDate]",
+    "Last Upgrade": "[data-cy=lastUpgrade]",
+    "Warranty Expiration": "[data-cy=warrantyExpiration]"
+}

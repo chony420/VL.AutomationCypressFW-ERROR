@@ -1,0 +1,11 @@
+{
+    "Username": "#mat-input-0",
+    "Password": "#mat-input-1",
+    "SignIn": "[type='submit'] > .mat-button-wrapper",
+    "LogOut": ".nav-link > .mat-button-wrapper > .mat-icon",
+    "ConfirmLogOut": "[cdkfocusinitial=''] > .mat-button-wrapper",
+    "Agents": "[tabindex='0'] > .mat-button-wrapper"
+    
+  }
+  
+

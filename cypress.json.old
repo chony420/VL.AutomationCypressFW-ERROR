@@ -1,0 +1,59 @@
+{
+  "projectId": "6mgkra",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "tests/test-output-[hash].xml",
+    "toConsole": true,
+    "attachments": true
+  },
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 4000,
+  "pageLoadTimeout": 60000,
+  "pluginsFile": "cypress/plugins/index",
+  "supportFile": "cypress/support/index",
+  "integrationFolder": "cypress/integration/",
+  "testFiles": "**/*.{feature,features}",
+  "ignoreTestFiles": ["*.js", "*.ts", "*.md", "**/VLCA/**/*","**/ConfiguracionBasica/BienesCompania.feature"],
+  "viewportWidth": 1360,
+  "viewportHeight": 790,
+  "watchForFileChanges": false,
+  "video": false,
+  "retries": {
+    "runMode": 2,    
+    "openMode": 0
+  },
+  "experimentalSessionAndOrigin": true,
+  "env": {
+    "TAGS": "not @ignore",
+    "PageObjectsTest": {},
+    "VLCA-DEV": {
+      "url": "#{url}#",
+      "users": {
+        "superadmin": {
+          "user": "#{user}#",
+          "pass": "#{pass}#"
+        }
+      },
+      "RETRIES": 2
+    },
+    "VLCA": {
+      "url": "#{url}#",
+      "users": {
+        "superadmin": {
+          "user": "#{user}#",
+          "pass": "#{pass}#"
+        }
+      }
+    },
+    "VismaLatam": {
+      "url": "#{url}#",
+      "users": {
+        "superadmin": {
+          "user": "#{user}#",
+          "pass": "#{pass}#"
+        }
+      },
+      "tenant": "#{tenant}#"
+    }
+  }
+}

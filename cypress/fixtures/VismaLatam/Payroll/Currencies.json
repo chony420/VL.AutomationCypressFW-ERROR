@@ -1,0 +1,10 @@
+{
+    "Filter Input":"#filterpayrollModel",
+    "Options": "#options",
+    "First Cell": "table>tbody>.mat-row>[role='cell']",
+    "ExternalCode": "#externalCode",
+    "Description": "#description",
+    "Initials": "#initials",
+    "Country": "#country",
+    "Modify": "#btnGridedit" 
+}

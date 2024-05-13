@@ -1,0 +1,7 @@
+{
+  "Tenant": "[formcontrolname=tenantId]",
+  "Type": "[data-cy=filterType]",
+  "Tenant once fixed": "[data-cy=tenant]",
+  "End date": "[formcontrolname=endDate]",
+  "Tenant Subscriptions": "[data-cy=tenantSubscriptions]"
+}

@@ -1,0 +1,13 @@
+{
+    "SearchCollaborator": "#employeeSearch",
+    "Partial": "#halfDay",
+    "HolidayPeriodSelection": "#holidayPeriods",
+    "RangeDaysFrom": ".mat-date-range-input-start-wrapper",
+    "RangeDaysTo": "#dateTo",
+    "AutomaticSelection": "#mat-radio-2",
+    "ManualSelection": "#mat-radio-3",
+
+    "SearchCollaborator (Obligatory Validation)": "#employeeValidation",
+    "RangeDaysTo (Obligatory Validation)": "#dateToValidation",
+    "SelectionHolidayPeriod (Obligatory Validation)": "#holidayPeriodsValidation"
+}

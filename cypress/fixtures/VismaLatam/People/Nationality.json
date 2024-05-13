@@ -1,0 +1,7 @@
+{
+  "Country": ".ng-input > input",
+  "Description": "#description",
+  "ExternalCode": "#externalCode",
+  "ExternalCodeObligatory": "#externalCodeValidation",
+  "Filter Grid": "#filterNationality"
+}

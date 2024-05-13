@@ -1,0 +1,14 @@
+{
+  "Create": "[data-cy=create]",
+  "Tenant Form": "[data-cy=formTemplateType]",
+  "Tenant": "[data-cy=tenant]",
+  "Description": "[data-cy=description]",
+  "Catalog": "[data-cy=catalog]",
+  "Tenant type": "[data-cy=tenantType]",
+  "Country": "[data-cy=country]",
+  "Client": "[data-cy=client]",
+  "Engine": "[data-cy=engine]",
+  "Dialog": "[role=dialog]",
+  "Cancel": "[data-cy=cancel]",
+  "Save": "[data-cy=save]"
+}

@@ -1,0 +1,21 @@
+{
+  "Query form": "[data-cy=queryForm]",
+  "Tenant": "[data-cy=tenant]",
+  "Category": "[data-cy=category]",
+  "Template": "[data-cy=template]",
+  "File name": "[data-cy=FileName]",
+  "Id": "[data-cy=Id]",
+  "ID input": "[data-cy=fieldInput_Id_0]",
+  "ID item": "[data-cy=fieldLabel_ItenId_1]",
+  "ID item input": "[data-cy=fieldInput_ItenId_1]",
+  "Cancel": "[data-cy=cancelBtn]",
+  "Save": "[data-cy=save]",
+  "ID validation": "#IdValidation",
+  "ID item validation": "#ItenIdValidation",
+  "Query search Field": "[data-cy=searchField]",
+  "Query search Button": "[data-cy=searchBtn]",
+  "Date Column": "[data-cy=dateHeader]",
+  "Tenant Column": "[data-cy=tenantHeader]",
+  "Category Column": "[data-cy=categoryHeader]",
+  "Message bar": "app-snack-bar"
+}

@@ -1,0 +1,49 @@
+{
+  "Breadcrumb Back Arrow": "[data-cy=breadcrumbPreviousPage]",
+  "Breadcrumb Go To": "[data-cy=breadcrumbGoTo]",
+  "TEST": "[data-cy=breadcrumbGoTo]",
+  "TEST2": "[data-cy=breadcrumbGoTo]", 
+
+  "VLCA": {
+    "Main": "[data-cy=breadcrumbGoTo_Main]",
+    "Security": "[data-cy=breadcrumbGoTo_Security]",
+    "Tools": "[data-cy=breadcrumbGoTo_Tools]",
+    "Query Management": "[data-cy=breadcrumbGoTo_QueryManagement]",
+    "Translation Manager": "[data-cy=breadcrumbGoTo_TranslationManager]",
+    "Clients": "[data-cy=breadcrumbGoTo_Clients]",
+    "DevOps": "[data-cy=breadcrumbGoTo_Devops]",
+    "Tenants": "[data-cy=breadcrumbGoTo_Tenants]",
+    "Database Engines": "[data-cy=breadcrumbGoTo_DatabaseEngines]",
+    "Servers": "[data-cy=breadcrumbGoTo_Servers]",
+    "VLCA": "#VLCA"
+   }, 
+
+  "VismaLatam": {
+    "PEOPLE": {
+      "People": "#hrCore",
+      "Vacaciones": "#holiday",
+      "Organizacion": "#organization",
+      "BasicConfiguration": "#basicConfiguration",
+      "Employees": "#employees",
+      "Absences": "#absences",
+      "Absence" : "#Absence",
+      "OccupationalHealth": "#health",
+      "Clinical Records": "#clinicalRecords",
+      "Health": "#health"
+      
+    },
+
+    "PAYROLL": {
+      "Payroll": "#payroll",
+      "PayrollConfiguration": "#payrollConfiguration",
+      "Payroll Exchanges": "#payrollExchanges",
+      "BasicConfiguration": "#basicConfiguration",
+      "Operations": "#operations",
+      "Advanceds": "#anticipos",
+      "Novelties": "#novedades",
+      "Payments": "#payrollPayments",
+      "PayrollPaymentRequests": "#payrollPaymentRequests"
+      
+    }
+  }
+}

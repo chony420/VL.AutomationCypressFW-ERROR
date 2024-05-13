@@ -1,0 +1,9 @@
+{
+
+    "Filter Countries": "#filterNoteType",
+    "Description": "#description",
+    "External Code Country": "#externalCountryCode",
+    "Bank File Code": "#bankFileCode",
+    "External Code": "#externalCode"
+
+}

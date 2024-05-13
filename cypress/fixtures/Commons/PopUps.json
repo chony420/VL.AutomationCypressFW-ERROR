@@ -1,0 +1,13 @@
+{
+  "Dialog": "[role=dialog]",
+  "Close": ".icon-action-close",
+  "Alert otros": "app-zaraza",
+  "LastMonth": "vlfrontpayroll-popover[message='helpLastMonthOfYear'] > div > [id='popover']",
+  "BlockPeriod": "vlfrontpayroll-popover[message='helpBlockPeriod'] > div > [id='popover']",
+  "FinalSettlement": "vlfrontpayroll-popover[message='helpFinalSettlement'] > div > [id='popover']",
+  "HelpNewAssets": "vlfrontpeople-popover[message='helpNewAssets'] > div > [id='popover']",
+  "Popover": "#popover",
+  "Generate monthly accumulators": ":nth-child(2) > .content-accumulator__form-accumulator-row.skeleton-input > .ml-5 > .help",
+  "Has limit": ":nth-child(6) > .ml-5 > .help > #popover",
+  "Notify about negative amounts": ":nth-child(5) > .content-accumulator__form-accumulator-row > .ml-5 > .help > #popover"
+}

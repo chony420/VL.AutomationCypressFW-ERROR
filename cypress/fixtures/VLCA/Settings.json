@@ -1,0 +1,7 @@
+{
+    "Tenant": "[data-cy=tenant]",
+    "Key": "[data-cy=key]",
+    "Key in grid": "[data-cy=keySort]",
+    "Value": "[data-cy=value]",
+    "Warranty Expiration": "[data-cy=warrantyExpiration]"
+}

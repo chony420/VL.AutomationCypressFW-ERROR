@@ -1,0 +1,32 @@
+{
+  "Chip Status": "#chip_holidayStatus",
+  "Chip HolidayModel": "#chip_idStructure",
+  "Chip Period": "#chip_period",
+  "Chip LastName": "#chip_lastName",
+  "Chip Name": "#chip_name",
+  "Chip FistName": "#chip_firstName",
+  "Chip FileNumber": "#chip_fileNumber",
+  "Chip Description": "#chip_description",
+
+  "Chip Reset Filter": "#chipResetFilter",
+
+  "Chip IdPeriodDiscount": "#chip_idPeriodDiscount",
+  "Chip IdSalaryAdvanceType": "#chip_idSalaryAdvanceType",
+  "Chip IdProcess": "#chip_idProcess",
+
+  "Chip Menu": "#chip_menu",
+  "Chip Type": "#chip_type",
+  
+  "Chip AbsenceStatus": "#chip_absenceStatus",
+  "Chip Country": "#chip_idCountry",
+  "Chip AbsenceType": "#chip_idAbsenceType",
+  "Chip AbsencePeriodRange": "#chip_absencePeriodRange",
+
+  "Chip PayrollPeriod": "#chip_idPeriod",
+  "Chip PayrollModel": "#chip_idModel",
+  "Chip PayrollStatus": "#chip_status",
+  "Chip PaymentDate": "#chip_paymentDate",
+  
+  "Chip DateRange": "#chip_dateRange"
+
+}

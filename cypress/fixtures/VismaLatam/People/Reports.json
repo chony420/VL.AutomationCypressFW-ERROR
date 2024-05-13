@@ -1,0 +1,7 @@
+{
+  "FrontEnd Reports": "vlfrontendreports-root",
+  "Menu": "mat-select#menu",
+  "Report Type": "mat-select#type",
+  "Administracion": "#ADMINISTRACION",
+  "Agenda": "#AGENDA"
+}
